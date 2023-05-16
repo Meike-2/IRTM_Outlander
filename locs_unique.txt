@@ -478,7 +478,6 @@ Overholt
 A Dhia
 Rome
 Don Francisco
-the Rue de Varennes
 Orange
 Merbling
 Orange County
@@ -492,7 +491,6 @@ Mecklenberg
 Newport
 London-town
 Isle Fleur
-the Royal Colony of South Carolina
 Rendill
 Normandy
 Glasgow
@@ -525,7 +523,6 @@ Hunter
 Ermenegilda
 Evening
 Pollyanne
-the Comte de Palles
 Apulia
 Bennington
 Ocracoke
@@ -604,7 +601,6 @@ Broadway
 the Lake District
 Catawba
 Chesthill
-The Bois de Boulogne
 Hieland
 Ullapool
 Culloden Culloden
@@ -823,7 +819,6 @@ Fort Ticonderoga
 Tulacb Ard
 Loch Linnhe
 Kinnoch
-the City of Savannah
 North Caicos
 Netherlands
 Philadelphia
@@ -837,3 +832,8 @@ Redondo Beach
 St. Denys
 Florida
 St. Ninian
+Rue de Varennes
+Royal Colony of South Carolina
+Comte de Palles
+Bois de Boulogne
+City of Savannah
