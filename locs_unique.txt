@@ -1,1678 +1,839 @@
 Richmond
-
 Oak Grove
-
 Gwyllyn
-
 Marblehead
-
 Jocasta
-
 Harbor
-
 Smoky
-
-Sherstons’
-
+Sherstons'
 Burgoyne
-
 Beauly
-
 Kent
-
 the Iroquois League
-
 the Isle of Skye
-
 Caswell
-
 the Celestial Kingdom of China
-
 Wickham Wynd
-
 Culross
-
 the American Colonies
-
 the Marquis de La Fayette
-
-Fraser’s Ridge
-
+Fraser's Ridge
 Guilford
-
 Trinidad
-
 the Towns of Wilmington
-
 New England
-
 Gaeta
-
 St. Anselm
-
 Hesse-Cassel
-
 Jamaica
-
 Elmsford
-
 Laoghaire Laoghaire
-
 Bonnet
-
 U.S.
-
 Bayamo
-
 Tavistock
-
 St. Stephen
-
-Woolam’s Creek
-
+Woolam's Creek
 Hacffurthe
-
 colonies
-
 Wadesboro
-
 Ellesmere
-
 Kentucky
-
 Struy
-
 Woodbine
-
 Surry
-
 Hampshire
-
 Sandringham
-
 Elgin
-
 Carryarrick
-
-Philadelphia.
-
-Portree
-
-Randalls’
-
-Oglanethaka.
-
-Balmerino
-
-Quebec City
-
-Pembroke
-
-Williamsburg
-
-Albany
-
-Lochiel
-
-Nuckelavee
-
-Joad’s Inlet
-
-Ticonderoga
-
-VERSAILLES
-
-St. Finbar
-
-Wilmingon
-
-Maitland
-
-Delft
-
-the States
-
-St. Andrew
-
-Tynchal
-
-Tunnaig
-
-St. Raymond
-
-Earlingden
-
-the Vicomtesse de Rambeau
-
-Onakara
-
-Randall-Isaacs
-
-MD
-
-Ninian
-
-St. Paul
-
-Newcastle
-
-Dublin
-
-Kiltorlity
-
-Highlands
-
-Vermont
-
-Italy
-
-Lag Cruime
-
-St. Giles’
-
-Sunbury
-
-St. Barbara
-
-Essich
-
-Munich
-
-the Boìs de Boulogne
-
-Brunswick
-
-New Hope Creek
-
-Tsisqua
-
-Rovo
-
-Preston
-
-Scilly
-
-the Heavenly Kingdom of China
-
-Lachlans’
-
-Musselburgh
-
-Tomnahurich
-
-Nairn
-
-G. Britain
-
-Duntulm
-
-Pigtown
-
-Vendôme’
-
-St. Elmo
-
-Nayawenne
-
-New Brunswick
-
-geneva
-
-Maine
-
-Islay
-
-Barra Meadows
-
-Kahnyen’kehaka
-
-Ravenstown
-
-FONTAINEBLEAU
-
-Ireland
-
-Clarewell
-
-Rouen
-
-Craigh na Dun
-
-Erracht
-
-Tennessee
-
-Switzerland
-
-Armadale
-
-Carolinas
-
-O’Sullivan
-
-Concord
-
-Loch Ness
-
-St. Croix
-
-Prestonpans
-
-Andrustown
-
-BROWNSVILLE
-
-St. Anne
-
-U.S
-
-the Colony of North Carolina
-
-Australia
-
-Kahyen’kehaka
-
-Salisbury
-
-Brewster
-
-Calcutta
-
-Snaketown
-
-New Haven
-
-the Imperial City
-
-Chicago
-
-Tarwathie
-
-Boone
-
-Arles
-
-Providence
-
-Fermoy
-
-Buncombe
-
-Sri Lanka
-
-Tuarach
-
-Brighton
-
-Sleat
-
-St. Lawrence
-
-Beaufort
-
-Kanu’gala’yi
-
-Georgia
-
-Greenoaks
-
-Benevento
-
-Brownsville
-
-Great Britain
-
-Moubray
-
-Oxfordshire
-
-Invermoriston
-
-Dismal Town
-
-Unadilla
-
-Amiens
-
-St. John
-
-Creek
-
-Hillsboro
-
-Yorktown
-
-Lodge
-
-United States
-
-Leoch
-
-Wilmington
-
-Kakonhoaerhas
-
-Martinique
-
-Cottonwood
-
-Muellers'
-
-Truro
-
-Tuscaroran
-
-Malvern
-
-FALKIRK
-
-Cross Creek
-
-Shawnee
-
-Ballagh
-
-Neuse River
-
-Hobart
-
-America
-
-Belladrum
-
-Iseabaìl
-
-Charlestown
-
-Dundreggan
-
-Anidonau Nuya
-
-Thayendanegea
-
-Fontainebleau
-
-Gallegher
-
-the Northwest Territory
-
-Draighhearnach
-
-The West Indies
-
-Da Da
-
-the Duchesse de Neve
-
-Delaware
-
-Frankfort
-
-McGillivrays’
-
-Detroit
-
-Roxbury
-
-ENGLAND
-
-Grenada
-
-Amphipolos
-
-Calais
-
-Chemodurow
-
-Abandawe
-
-Wakefield
-
-Sengas
-
-Westminster
-
-Compiègne
-
-Middlebrook
-
-Sussex
-
-Total
-
-Carryarick
-
-Dunmaglas
-
-Cock-Robin
-
-Rowan County
-
-MA
-
-Perth Harbor
-
-Fife
-
-Chianti
-
-Aubusson
-
-Maedle
-
-Auldearn
-
-New Bern
-
-Country
-
-Oklahoma
-
-Holyroodhouse
-
-Barbecue Creek
-
-Toledo
-
-the Virgin Islands
-
-Britain
-
-Skye
-
-Livingston
-
-Cranesmuir
-
-Kingsessing
-
-the Isle of Harris
-
-the Belle Rouge
-
-Keppoch
-
-Lewes
-
-New Dorp
-
-Culloden
-
-Plymouth
-
-High Point
-
-Tuscarora
-
-Pekin
-
-Caicos
-
-Esmeralda
-
-Dunvegan
-
-Ardagh
-
-Coigach
-
-Lisbon
-
-Alsace
-
-Indianapolis
-
-Dunsanys'
-
-Brianna
-
-California
-
-Kilburnie
-
-Brian
-
-los Angeles
-
-Da Claire
-
-Russia
-
-Borneo
-
-Montrose
-
-Flushing
-
-Tiugainn
-
-Houston
-
-River Run
-
-Woolams
-
-Donibristle
-
-Hale
-
-Belle Rouge
-
-the Isle of Lewis
-
-Foyne
-
-Eldridge Manor
-
-Yona’kensyonk
-
-Briertown
-
-MacRannoch
-
-Argentan
-
-New Jersey
-
-the City
-
-Le Havre
-
-Middletown Encampment
-
-Hempstead
-
-SCOTLAND
-
-St. Kilda’
-
-the Colony of Virginia
-
-Pickles      LONG ISLAND
-
-Orkney
-
-Perth
-
-Savannah
-
-Sur-le-Meine
-
-Appin
-
-Highland
-
-St. Germain
-
-Bethania
-
-Doonesbury
-
-Paris
-
-Ghent
-
-Colony
-
-Killin
-
-Osiyo
-
-Glengarry
-
-Middlebrook Encampment
-
-Mexico
-
-Caroline County
-
-Ayrshire
-
-Charlottesville
-
-Ardraigh
-
-Jamie Claire
-
-Lynchburg
-
-Taprooms
-
-Ladywalk Wynd
-
-Broch Mordha
-
-St. Guignole
-
-Mecklenberg County
-
-Hebdy
-
-Gostos
-
-Abernathy
-
-Sungi
-
-Dunedin
-
-Rhode Island
-
-Berwick
-
-Barbados
-
-Madrid
-
-Murdina
-
-Scotchee
-
-Great Abaco
-
-Killiecrankie
-
-La Fayette
-
-Maryland
-
-Lancashire
-
-Cap-Haïtien
-
-Madeira
-
-Sligo
-
-Barbuda
-
-Turkey
-
-Salem
-
-Inverness-shire
-
-Canterbury
-
-Hillsborough
-
-Flanders
-
-the King of France
-
-Ardsmuir
-
-PENNSYLVANIA
-
-Rossmoor
-
-Hallo
-
-Malva
-
-Loch Lomond
-
-Dundaff
-
-Beaune
-
-Valencia
-
-Forez
-
-Milford Lyon
-
-Quaker
-
-Loch Madoch
-
-Crombie
-
-Scotland
-
-Dingwall
-
-Brussels
-
-Tennago
-
-a City
-
-JOCASTA  Cross Creek
-
-Montmartre
-
-Hesse-Kassel
-
-Geneva
-
-Wilmington Harbor
-
-Claire
-
-Cumberpatch
-
-Persia
-
-Laoghaire
-
-Cooperville
-
-Murtagh
-
-Kilmartin
-
-Hodgepile
-
-Freehold
-
-Scotland Bree
-
-Virginia
-
-St. Leger
-
-Chew Full-rigged
-
-Spotswood Middlebrook
-
-Norway
-
-Restalrig
-
-Anstruther
-
-Carolina
-
-Boiling Creek
-
-Jamie
-
-Greensboro
-
-Southampton
-
-YORK
-
-ZUGUNRUHE
-
-Wood
-
-Henri-Christian
-
-Fort Johnston
-
-Daviot
-
-Edinburgh
-
-Alamance
-
-Annekje
-
-the Isle of Man
-
-St. Augustine
-
-St. Agnes
-
-Isle of Lewis
-
-Derby
-
-Pitsligo
-
-Craven
-
-Leith Wynd
-
-Banff
-
-Halifax
-
-Nigeria
-
-Kildennie
-
-Damascus
-
-Tartary
-
-Ocracoke Island
-
-Portugal
-
-France
-
-Eleuthera
-
-Brest
-
-Sheriffmuir
-
-Arachmida
-
-Marsali
-
-Fort William
-
-Helwater
-
-Lebanon
-
-Rowan county
-
-Toulon
-
-Coopersville
-
-Phaedre
-
-Charleston
-
-States
-
-Alexandria
-
-Madras
-
-Ascaria
-
-HOLYROOD
-
-Ardrossan
-
-Meissen
-
-Lindsays’
-
-Great Inagua
-
-Buttonmold Bay
-
-Bree
-
-Roquefort
-
-Mottville
-
-Villette
-
-L.J.
-
-Germany
-
-Grants
-
-Ormiston
-
-Sheridan
-
-Dunbar
-
-Holland
-
-Devon
-
-Bouton
-
-Hancock
-
-Balcarres
-
-New Bern.
-
-Geilie
-
-His Grace
-
-Lawrence
-
-Cherokee
-
-Peru
-
-Orvieto
-
-Yorkshire
-
-Bree Bree
-
-Calder
-
-Colonies
-
-Mohawk
-
-Bargrennan
-
-Brockton
-
-Cité
-
-Overholt
-
-A Dhia
-
-Rome
-
-Don Francisco
-
-the Rue de Varennes
-
-Orange
-
-Merbling
-
-Orange County
-
-Esq.
-
-Phoenix
-
-Trois Flèches
-
-Aberdeenshire
-
-Mass
-
-WATERTOWN
-
-Mecklenberg
-
-Newport
-
-London-town
-
-Isle Fleur
-
-the Royal Colony of South Carolina
-
-Rendill
-
-Normandy
-
-Glasgow
-
-Roanoke
-
-Coccygodynia
-
-Haiti
-
-Staten Island
-
-Paleyville
-
-Drumossie Moor
-
-Talltree
-
-Buchan
-
-Walnut Claire
-
-District
-
-West Indies
-
-Norfolk
-
-Cornwall
-
-Bethabara
-
-Drumnadrochit
-
-Crimond
-
-Connecticut
-
-Cambridge
-
-Michilimackinac
-
-Kilmarnock
-
-Huron
-
-Cheshire
-
-Boston
-
-Hodgepile Hodgepile
-
-Tsatsa’wi’s town
-
-Hunter
-
-Ermenegilda
-
-Evening
-
-Pollyanne
-
-the Comte de Palles
-
-Apulia
-
-Bennington
-
-Ocracoke
-
-Auchterlonie
-
-South Carolina
-
-Marie d’Arbanville’s
-
-UK
-
-Greenboro
-
-Findlay
-
-Beardsleys’
-
-Beardsley
-
-St. Giles
-
-Stirling
-
-Austria
-
-Newfoundland
-
-Pinhão
-
-Algiers
-
-the British Empire
-
-Weaver’s Gorge
-
-Florence
-
-BENNINGTON
-
-Charlotte
-
-HOUSTON
-
-Glenfinnan
-
-Gloucester Harbor
-
-L’Oignon
-
-Moray
-
-Hanover
-
-the United States
-
-Kuykendalls
-
-Wolverhampton
-
-Willoughby
-
-LONDON
-
-St. Clair
-
-Israel
-
-Hispaniola
-
-St. Bride
-
-O’Clock
-
-Bethesda
-
-Tsatsa’wi
-
-Korea
-
-Long Island
-
-Egypt
-
-New Grace
-
-England
-
-Lillington
-
-North Carolina
-
-SAVANNAH
-
-Brookfield
-
-Hunter’s Point
-
-Washington
-
-Bridgetown
-
-Middletown
-
-Hallowe’en
-
-Eskadale
-
-Camp
-
-Wakyo’teyehsnonhsa
-
-Kerse
-
-Owenawisgu
-
-Burntisland
-
-Oxford
-
-Montreal
-
-Guinea
-
-Bug
-
-Otter-Tooth
-
-Canada
-
-Caen
-
-Castlerigg
-
-Melk
-
-Gravesend Bay
-
-Carteret County
-
-Ochtertyre
-
-JNO.
-
-Province
-
-Broadway
-
-the Lake District
-
-Catawba
-
-Chesthill
-
-The Bois de Boulogne
-
-Hieland
-
-Ullapool
-
-Culloden Culloden
-
-Bellhurst
-
-Dornoch
-
-GENEVA
-
-the West Indies
-
-Kingston
-
-Cologne
-
-Pennsylvania
-
-Beaujolais
-
-Saratoga
-
-Jamestown
-
-Beaupré
-
-Ridge
-
-Ardsmuir village
-
-Peterhead
-
-Mohawk village
-
-Hallo Hallo
-
-Tewaktenyonh
-
-Symonds’
-
-Okwaho
-
-Surry County
-
-Antigua
-
-Amsterdam
-
-Bilbao
-
-Holyrood
-
-Leanach
-
-Stactoe
-
-Ephraim
-
-Quebec
-
-Reading Furnace
-
-Saperville
-
-Nacognaweto
-
-Pa.
-
-Buccleigh
-
-Germain
-
-Kalanun’yi
-
-PARIS
-
-Great Alamance
-
-Beaufort Cathtle
-
-China
-
-Kermanshah
-
-Asheville
-
-Balgownie
-
-Canton
-
-Shewglie
-
-St. Anne de Beaupré
-
-Beannachd
-
-Hubbardton
-
-L’Hôpital des Anges
-
-Kirkcaldy
-
-Montego Bay
-
-FitzGibbons
-
-Bremerton
-
 Philadelphia
-
+Portree
+Randalls'
+Oglanethaka
+Balmerino
+Quebec City
+Pembroke
+Williamsburg
+Albany
+Lochiel
+Nuckelavee
+Joad's Inlet
+Ticonderoga
+VERSAILLES
+St. Finbar
+Wilmingon
+Maitland
+Delft
+the States
+St. Andrew
+Tynchal
+Tunnaig
+St. Raymond
+Earlingden
+the Vicomtesse de Rambeau
+Onakara
+Randall-Isaacs
+MD
+Ninian
+St. Paul
+Newcastle
+Dublin
+Kiltorlity
+Highlands
+Vermont
+Italy
+Lag Cruime
+St. Giles'
+Sunbury
+St. Barbara
+Essich
+Munich
+the Bo's de Boulogne
+Brunswick
+New Hope Creek
+Tsisqua
+Rovo
+Preston
+Scilly
+the Heavenly Kingdom of China
+Lachlans'
+Musselburgh
+Tomnahurich
+Nairn
+G. Britain
+Duntulm
+Pigtown
+Vend'me'
+St. Elmo
+Nayawenne
+New Brunswick
+geneva
+Maine
+Islay
+Barra Meadows
+Kahnyen'kehaka
+Ravenstown
+FONTAINEBLEAU
+Ireland
+Clarewell
+Rouen
+Craigh na Dun
+Erracht
+Tennessee
+Switzerland
+Armadale
+Carolinas
+O'Sullivan
+Concord
+Loch Ness
+St. Croix
+Prestonpans
+Andrustown
+BROWNSVILLE
+St. Anne
+U.S
+the Colony of North Carolina
+Australia
+Kahyen'kehaka
+Salisbury
+Brewster
+Calcutta
+Snaketown
+New Haven
+the Imperial City
+Chicago
+Tarwathie
+Boone
+Arles
+Providence
+Fermoy
+Buncombe
+Sri Lanka
+Tuarach
+Brighton
+Sleat
+St. Lawrence
+Beaufort
+Kanu'gala'yi
+Georgia
+Greenoaks
+Benevento
+Brownsville
+Great Britain
+Moubray
+Oxfordshire
+Invermoriston
+Dismal Town
+Unadilla
+Amiens
+St. John
+Creek
+Hillsboro
+Yorktown
+Lodge
+United States
+Leoch
+Wilmington
+Kakonhoaerhas
+Martinique
+Cottonwood
+Muellers'
+Truro
+Tuscaroran
+Malvern
+FALKIRK
+Cross Creek
+Shawnee
+Ballagh
+Neuse River
+Hobart
+America
+Belladrum
+Iseaba'l
+Charlestown
+Dundreggan
+Anidonau Nuya
+Thayendanegea
+Fontainebleau
+Gallegher
+the Northwest Territory
+Draighhearnach
+The West Indies
+Da Da
+the Duchesse de Neve
+Delaware
+Frankfort
+McGillivrays'
+Detroit
+Roxbury
+ENGLAND
+Grenada
+Amphipolos
+Calais
+Chemodurow
+Abandawe
+Wakefield
+Sengas
+Westminster
+Compi'gne
+Middlebrook
+Sussex
+Total
+Carryarick
+Dunmaglas
+Cock-Robin
+Rowan County
+MA
+Perth Harbor
+Fife
+Chianti
+Aubusson
+Maedle
+Auldearn
+New Bern
+Country
+Oklahoma
+Holyroodhouse
+Barbecue Creek
+Toledo
+the Virgin Islands
+Britain
+Skye
+Livingston
+Cranesmuir
+Kingsessing
+the Isle of Harris
+the Belle Rouge
+Keppoch
+Lewes
+New Dorp
+Culloden
+Plymouth
+High Point
+Tuscarora
+Pekin
+Caicos
+Esmeralda
+Dunvegan
+Ardagh
+Coigach
+Lisbon
+Alsace
+Indianapolis
+Dunsanys'
+Brianna
+California
+Kilburnie
+Brian
+los Angeles
+Da Claire
+Russia
+Borneo
+Montrose
+Flushing
+Tiugainn
+Houston
+River Run
+Woolams
+Donibristle
+Hale
+Belle Rouge
+the Isle of Lewis
+Foyne
+Eldridge Manor
+Yona'kensyonk
+Briertown
+MacRannoch
+Argentan
+New Jersey
+the City
+Le Havre
+Middletown Encampment
+Hempstead
+SCOTLAND
+St. Kilda'
+the Colony of Virginia
+Pickles      LONG ISLAND
+Orkney
+Perth
+Savannah
+Sur-le-Meine
+Appin
+Highland
+St. Germain
+Bethania
+Doonesbury
+Paris
+Ghent
+Colony
+Killin
+Osiyo
+Glengarry
+Middlebrook Encampment
+Mexico
+Caroline County
+Ayrshire
+Charlottesville
+Ardraigh
+Jamie Claire
+Lynchburg
+Taprooms
+Ladywalk Wynd
+Broch Mordha
+St. Guignole
+Mecklenberg County
+Hebdy
+Gostos
+Abernathy
+Sungi
+Dunedin
+Rhode Island
+Berwick
+Barbados
+Madrid
+Murdina
+Scotchee
+Great Abaco
+Killiecrankie
+La Fayette
+Maryland
+Lancashire
+Cap-Ha'tien
+Madeira
+Sligo
+Barbuda
+Turkey
+Salem
+Inverness-shire
+Canterbury
+Hillsborough
+Flanders
+the King of France
+Ardsmuir
+PENNSYLVANIA
+Rossmoor
+Hallo
+Malva
+Loch Lomond
+Dundaff
+Beaune
+Valencia
+Forez
+Milford Lyon
+Quaker
+Loch Madoch
+Crombie
+Scotland
+Dingwall
+Brussels
+Tennago
+a City
+JOCASTA  Cross Creek
+Montmartre
+Hesse-Kassel
+Geneva
+Wilmington Harbor
+Claire
+Cumberpatch
+Persia
+Laoghaire
+Cooperville
+Murtagh
+Kilmartin
+Hodgepile
+Freehold
+Scotland Bree
+Virginia
+St. Leger
+Chew Full-rigged
+Spotswood Middlebrook
+Norway
+Restalrig
+Anstruther
+Carolina
+Boiling Creek
+Jamie
+Greensboro
+Southampton
+YORK
+ZUGUNRUHE
+Wood
+Henri-Christian
+Fort Johnston
+Daviot
+Edinburgh
+Alamance
+Annekje
+the Isle of Man
+St. Augustine
+St. Agnes
+Isle of Lewis
+Derby
+Pitsligo
+Craven
+Leith Wynd
+Banff
+Halifax
+Nigeria
+Kildennie
+Damascus
+Tartary
+Ocracoke Island
+Portugal
+France
+Eleuthera
+Brest
+Sheriffmuir
+Arachmida
+Marsali
+Fort William
+Helwater
+Lebanon
+Rowan county
+Toulon
+Coopersville
+Phaedre
+Charleston
+States
+Alexandria
+Madras
+Ascaria
+HOLYROOD
+Ardrossan
+Meissen
+Lindsays'
+Great Inagua
+Buttonmold Bay
+Bree
+Roquefort
+Mottville
+Villette
+L.J.
+Germany
+Grants
+Ormiston
+Sheridan
+Dunbar
+Holland
+Devon
+Bouton
+Hancock
+Balcarres
+New Bern
+Geilie
+His Grace
+Lawrence
+Cherokee
+Peru
+Orvieto
+Yorkshire
+Bree Bree
+Calder
+Colonies
+Mohawk
+Bargrennan
+Brockton
+Cit'
+Overholt
+A Dhia
+Rome
+Don Francisco
+the Rue de Varennes
+Orange
+Merbling
+Orange County
+Esq
+Phoenix
+Trois Fl'ches
+Aberdeenshire
+Mass
+WATERTOWN
+Mecklenberg
+Newport
+London-town
+Isle Fleur
+the Royal Colony of South Carolina
+Rendill
+Normandy
+Glasgow
+Roanoke
+Coccygodynia
+Haiti
+Staten Island
+Paleyville
+Drumossie Moor
+Talltree
+Buchan
+Walnut Claire
+District
+West Indies
+Norfolk
+Cornwall
+Bethabara
+Drumnadrochit
+Crimond
+Connecticut
+Cambridge
+Michilimackinac
+Kilmarnock
+Huron
+Cheshire
+Boston
+Hodgepile Hodgepile
+Tsatsa'wi's town
+Hunter
+Ermenegilda
+Evening
+Pollyanne
+the Comte de Palles
+Apulia
+Bennington
+Ocracoke
+Auchterlonie
+South Carolina
+Marie d'Arbanville's
+UK
+Greenboro
+Findlay
+Beardsleys'
+Beardsley
+St. Giles
+Stirling
+Austria
+Newfoundland
+Pinh'o
+Algiers
+the British Empire
+Weaver's Gorge
+Florence
+BENNINGTON
+Charlotte
+HOUSTON
+Glenfinnan
+Gloucester Harbor
+L'Oignon
+Moray
+Hanover
+the United States
+Kuykendalls
+Wolverhampton
+Willoughby
+LONDON
+St. Clair
+Israel
+Hispaniola
+St. Bride
+O'Clock
+Bethesda
+Tsatsa'wi
+Korea
+Long Island
+Egypt
+New Grace
+England
+Lillington
+North Carolina
+SAVANNAH
+Brookfield
+Hunter's Point
+Washington
+Bridgetown
+Middletown
+Hallowe'en
+Eskadale
+Camp
+Wakyo'teyehsnonhsa
+Kerse
+Owenawisgu
+Burntisland
+Oxford
+Montreal
+Guinea
+Bug
+Otter-Tooth
+Canada
+Caen
+Castlerigg
+Melk
+Gravesend Bay
+Carteret County
+Ochtertyre
+JNO
+Province
+Broadway
+the Lake District
+Catawba
+Chesthill
+The Bois de Boulogne
+Hieland
+Ullapool
+Culloden Culloden
+Bellhurst
+Dornoch
+GENEVA
+the West Indies
+Kingston
+Cologne
+Pennsylvania
+Beaujolais
+Saratoga
+Jamestown
+Beaupr'
+Ridge
+Ardsmuir village
+Peterhead
+Mohawk village
+Hallo Hallo
+Tewaktenyonh
+Symonds'
+Okwaho
+Surry County
+Antigua
+Amsterdam
+Bilbao
+Holyrood
+Leanach
+Stactoe
+Ephraim
+Quebec
+Reading Furnace
+Saperville
+Nacognaweto
+Pa.
+Buccleigh
+Germain
+Kalanun'yi
+PARIS
+Great Alamance
+Beaufort Cathtle
+China
+Kermanshah
+Asheville
+Balgownie
+Canton
+Shewglie
+St. Anne de Beaupr'
+Beannachd
+Hubbardton
+L'H'pital des Anges
+Kirkcaldy
+Montego Bay
+FitzGibbons
+Bremerton
+Philadelphia
 Langhorne
-
 Rowan Counties
-
 Nova Scotia
-
 Stornoway
-
 Gaol
-
 Mecklenburg County
-
-Scotlan.
-
+Scotlan
 South Caicos
-
 Bombay
-
 Inverness
-
 Dubhlairn
-
 Mountgerald
-
 Wentworth
-
 Valley Forge
-
 Priestly
-
 Eureka
-
 Portsmouth
-
 Versailles
-
 Naples
-
 Straw
-
 Farquard
-
 New York
-
 Tika-ba
-
 Walnut Grove
-
 the City of Inverness
-
 Arbroath
-
 Cornwallis
-
 Englishtown
-
 Balriggan
-
 Arizona
-
 Kyle
-
 Habana
-
 St. Kilda
-
 Lochaber
-
 the Bois de Boulogne
-
 Pitlochry
-
 the West Banks
-
 Lallybroch
-
 Cuba
-
 Bannockburn
-
 Tokyo
-
 the United States of America
-
 Spain
-
 Brittany
-
 Ghana
-
 Dorset
-
 Breadalbin
-
 Aberfeldy
-
 London
-
 Blutwurst
-
 Middlesex village
-
-Wako’teqehsnonhsa’s
-
+Wako'teqehsnonhsa's
 Wake County
-
 Brugge
-
 Poland
-
 Aurora
-
 Cromdale
-
 Grand Turk
-
 US
-
 Yanceyville
-
 Edenton
-
 Boise
-
 Thurso
-
 Averasboro
-
 Alderdyce
-
 Duncansburgh
-
 Greene
-
 Baltimore
-
 Carrubber
-
 Jocasta Cameron
-
 Salerno
-
 Chisholms
-
 CA
-
 New Orleans
-
 Sutherland
-
 Colenso Baragwanath
-
 Somerset
-
 Tryon
-
 Cockburn Town
-
 Bristol
-
-Grandpère
-
+Grandp're
 Valenciennes
-
 Massachusetts
-
 Germantown
-
 the Town of Hillsborough
-
 Wagga
-
 the Scottish Highlands
-
-CUPID’S GROVE
-
+CUPID'S GROVE
 Laoghaire Claire
-
 Seneca
-
 Colenso
-
 Hershey
-
 Devonshire
-
 Campbelton
-
 San Salvador
-
 India
-
 the Comte St. Germain
-
 Aberdeen
-
 Ben Aden
-
 LA
-
 The Lake District
-
 Glenmoriston
-
 Southwark
-
 Morristown
-
 Lexington
-
 Japan
-
 Kinwallis
-
 Balnain
-
 Lyon
-
 AMERICA
-
 New Hampshire
-
 WILMINGTON
-
 Cape Fear
-
 Loch Errochty
-
 Dodanil
-
 Wyandot
-
 St. Thomas
-
 Alamance Creek
-
 Montauk
-
 Bahamas
-
 Ellis Ward
-
 Broch Mhorda
-
 Neuf
-
 Culloden Claire
-
 Glen Richie
-
 Manhattan
-
 Carrara
-
 Lucklow
-
 Northumbria
-
 Hah-vahd Yahd
-
 Aix
-
 Columbus
-
 County Sligo
-
 Fogden
-
 Dunstable
-
 Fergus
-
 Waterford
-
 Northumberland
-
 Dresden
-
 Paoli
-
 Sycamore
-
 Whitburgh
-
 Tranent
-
 Quinbrough
-
 Muldaur
-
 the Indies
-
 Trenton
-
 Dundee
-
 North
-
 Lochalsh
-
 MacDuff
-
 Onyarekenata
-
 Kirkinmill
-
 Oban
-
 Drumossie
-
 Bunker Hill
-
 Tebbe
-
 Pardloe
-
 Fort Ticonderoga
-
 Tulacb Ard
-
 Loch Linnhe
-
 Kinnoch
-
 the City of Savannah
-
 North Caicos
-
 Netherlands
-
-Phila delphia
-
+Philadelphia
 Falkirk
-
 Broch Tuarach
-
 Whitehall
-
 Cumberland
-
 Oneida
-
-Tsatsa’wi Tsatsa’wi
-
+Tsatsa'wi Tsatsa'wi
 Redondo Beach
-
 St. Denys
-
 Florida
-
 St. Ninian
-
