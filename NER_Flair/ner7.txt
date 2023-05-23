@@ -1,43 +1,43 @@
 DELACORTE PRESS ORG 0
 Random House, Inc. ORG 45
 Random House, Inc ORG 100
-Chapter 1  Chapter 2  Chapter 3  Chapter 4  Chapter 5  Part Two  Chapter 6  Chapter 7  Chapter 8  Chapter 9  Chapter 10  Chapter 11LAW294
-Chapter 12  Chapter 13LAW427
-Chapter 14  Chapter 15LAW451
-Chapter 16  Chapter 17LAW475
-Chapter 18  Chapter 19  Chapter 20LAW499
-Chapter 21  Chapter 22  Part Three  Chapter 23LAW535
-Chapter 24  Chapter 25LAW583
-Chapter 26  Chapter 27  Chapter 28  Chapter 29  Chapter 30  Chapter 31  Part Four  Chapter 32  Chapter 33LAW607
-Chapter 34  Chapter 35LAW714
-Chapter 36  Chapter 37LAW738
-Chapter 38  Chapter 39LAW762
-Chapter 40  Chapter 41  Part Five  Chapter 42  Chapter 43LAW786
-Chapter 44  Chapter 45LAW845
-Chapter 46  Chapter 47LAW869
-Chapter 48  Chapter 49LAW893
-Chapter 50  Chapter 51  Chapter 52LAW917
-Chapter 53  Chapter 54LAW953
-Chapter 55  Chapter 56LAW977
-Chapter 57  Chapter 58LAW1001
-Chapter 59  Chapter 60LAW1025
-Chapter 61LAW1049
-Chapter 62  Chapter 63LAW1061
-Chapter 64  Chapter 65  Chapter 66  Chapter 67LAW1085
-Chapter 68  Chapter 69  Chapter 70  Part Six  Chapter 71  Chapter 72  Chapter 73LAW1133
-Chapter 74  Chapter 75LAW1215
-Chapter 76  Chapter 77LAW1239
-Chapter 78  Chapter 79LAW1263
-Chapter 80  Chapter 81LAW1287
-Chapter 82  Chapter 83LAW1311
-Chapter 84  Part Seven  Chapter 85  Chapter 86LAW1335
-Chapter 87  Chapter 88  Chapter 89LAW1383
-Chapter 90  Chapter 91LAW1419
-Chapter 92  Chapter 93LAW1443
-Chapter 94  Chapter 95LAW1467
-Chapter 96  Chapter 97LAW1491
-Chapter 98  Chapter 99  Chapter 100  Chapter 101LAW1515
-Chapter 102  Chapter 103LAW1565
+Chapter 1  Chapter 2  Chapter 3  Chapter 4  Chapter 5  Part Two  Chapter 6  Chapter 7  Chapter 8  Chapter 9  Chapter 10  Chapter 11 LAW 294
+Chapter 12  Chapter 13 LAW 427
+Chapter 14  Chapter 15 LAW 451
+Chapter 16  Chapter 17 LAW 475
+Chapter 18  Chapter 19  Chapter 20 LAW 499
+Chapter 21  Chapter 22  Part Three  Chapter 23 LAW 535
+Chapter 24  Chapter 25 LAW 583
+Chapter 26  Chapter 27  Chapter 28  Chapter 29  Chapter 30  Chapter 31  Part Four  Chapter 32  Chapter 33 LAW 607
+Chapter 34  Chapter 35 LAW 714
+Chapter 36  Chapter 37 LAW 738
+Chapter 38  Chapter 39 LAW 762
+Chapter 40  Chapter 41  Part Five  Chapter 42  Chapter 43 LAW 786
+Chapter 44  Chapter 45 LAW 845
+Chapter 46  Chapter 47 LAW 869
+Chapter 48  Chapter 49 LAW 893
+Chapter 50  Chapter 51  Chapter 52 LAW 917
+Chapter 53  Chapter 54 LAW 953
+Chapter 55  Chapter 56 LAW 977
+Chapter 57  Chapter 58 LAW 1001
+Chapter 59  Chapter 60 LAW 1025
+Chapter 61 LAW 1049
+Chapter 62  Chapter 63 LAW 1061
+Chapter 64  Chapter 65  Chapter 66  Chapter 67 LAW 1085
+Chapter 68  Chapter 69  Chapter 70  Part Six  Chapter 71  Chapter 72  Chapter 73 LAW 1133
+Chapter 74  Chapter 75 LAW 1215
+Chapter 76  Chapter 77 LAW 1239
+Chapter 78  Chapter 79 LAW 1263
+Chapter 80  Chapter 81 LAW 1287
+Chapter 82  Chapter 83 LAW 1311
+Chapter 84  Part Seven  Chapter 85  Chapter 86 LAW 1335
+Chapter 87  Chapter 88  Chapter 89 LAW 1383
+Chapter 90  Chapter 91 LAW 1419
+Chapter 92  Chapter 93 LAW 1443
+Chapter 94  Chapter 95 LAW 1467
+Chapter 96  Chapter 97 LAW 1491
+Chapter 98  Chapter 99  Chapter 100  Chapter 101 LAW 1515
+Chapter 102  Chapter 103 LAW 1565
 Wilmington GPE 1978
 North Carolina GPE 2000
 July 1776 DATE 2016
@@ -759,7 +759,7 @@ Grey PERSON 43209
 the Ohio River Valley LOC 43273
 Great Britain GPE 43314
 France GPE 43333
-the French and Indian WarEVENT43354
+the French and Indian War EVENT 43354
 Britain GPE 43381
 Grey PERSON 43614
 Grey PERSON 43631
@@ -2454,7 +2454,7 @@ Claire PERSON 146119
 Roger PERSON 146139
 Claire PERSON 146182
 Roger Roger PERSON 146221
-Roger of the Disposition of the PropertyLAW146248
+Roger of the Disposition of the Property LAW 146248
 Camerons PERSON 146325
 Italian NORP 146341
 Claire PERSON 146360
@@ -2567,7 +2567,7 @@ Jamie’s PERSON 154684
 TWO CARDINAL 154749
 Pickles      LONG ISLAND GPE 154776
 July 4, 1776 DATE 154806
-the Declaration of IndependenceLAW154820
+the Declaration of Independence LAW 154820
 Philadelphia GPE 154866
 July 24 DATE 154885
 William Howe PERSON 154917
@@ -5962,7 +5962,7 @@ Grey PERSON 369888
 Grey PERSON 369976
 Grey PERSON 370038
 Claire PERSON 370153
-DeclarationLAW370182
+Declaration LAW 370182
 Claire PERSON 370208
 America GPE 370238
 Grey PERSON 370256
@@ -6802,7 +6802,7 @@ Bree PERSON 412681
 Huntly Street FAC 412758
 Bank Street FAC 412793
 Bree PERSON 412865
-World War IIEVENT412955
+World War II EVENT 412955
 Bree PERSON 412984
 Claire PERSON 413128
 Bree PERSON 413304
@@ -6874,7 +6874,7 @@ Claire PERSON 415993
 Claire PERSON 416056
 Claire PERSON 416123
 Claire PERSON 416204
-RegulationLAW416297
+Regulation LAW 416297
 Joe Abernathy PERSON 416318
 South LOC 416386
 Joe Abernathy PERSON 416406
@@ -11466,7 +11466,7 @@ Europe LOC 666602
 Roger PERSON 666626
 Roger PERSON 666829
 Roger PERSON 666981
-the WarEVENT667087
+the War EVENT 667087
 Claire PERSON 667096
 Frank PERSON 667120
 Frank PERSON 667147
@@ -11505,7 +11505,7 @@ Claire PERSON 668305
 Claire PERSON 668324
 Jerry PERSON 668396
 Jerry Jerry PERSON 668494
-the WarEVENT668527
+the War EVENT 668527
 Jamie PERSON 668620
 Jamie PERSON 668632
 Jamie PERSON 668642
@@ -11753,7 +11753,7 @@ Commission ORG 682905
 Adam PERSON 682998
 Affection WORK_OF_ART 683058
 William      October 3 PERSON 683164
-1776  EllesmereEVENT683188
+1776  Ellesmere EVENT 683188
 John Grey PERSON 683212
 Claire PERSON 683256
 Richardson PERSON 683294
@@ -11879,7 +11879,7 @@ Richardson PERSON 689442
 French NORP 689478
 Guy PERSON 689532
 North America LOC 689564
-the Quebec ActLAW689589
+the Quebec Act LAW 689589
 Catholicism NORP 689621
 French NORP 689651
 English LANGUAGE 689680
@@ -12476,7 +12476,7 @@ Guy PERSON 719374
 the American Insurrection ORG 719437
 Guy PERSON 719489
 Fort Saint-Jean FAC 719508
-a Sea BattleEVENT719594
+a Sea Battle EVENT 719594
 Claire PERSON 719614
 Claire PERSON 719629
 Lake Champlain FAC 719673
@@ -12486,7 +12486,7 @@ Guy PERSON 719751
 Guy PERSON 719827
 Randall-Isaacs PERSON 719844
 Distance ORG 719897
-the  TIME  of YearEVENT719919
+the  TIME  of Year EVENT 719919
  FAC t his Judgment WORK_OF_ART 719940
 the next Day DATE 719979
 Blizzard ORG 720052
@@ -12514,12 +12514,12 @@ Claire PERSON 721369
 Bell PERSON 721392
 9:15 p.m TIME 721423
 Guy PERSON 721461
-Invasion of Quebec last YearEVENT721494
+Invasion of Quebec last Year EVENT 721494
 Hudson LOC 721624
 Avenue FAC 721661
 nearly two Inches QUANTITY 721897
 Guy PERSON 722043
-the Invasion of last WinterEVENT722110
+the Invasion of last Winter EVENT 722110
 Arnold PERSON 722163
 Guy Access PERSON 722199
 Lakes LOC 722217
@@ -12615,7 +12615,7 @@ Americans NORP 725549
 the Royal Savage FAC 725594
 Royal Savage ORG 725614
 Strait LOC 725683
-BattleEVENT725699
+Battle EVENT 725699
 Midday, the Carleton and Inflexible bearing most of the Brunt of the Action WORK_OF_ART 725729
 Gunboats PRODUCT 725821
 Arnold PERSON 725831
@@ -12634,7 +12634,7 @@ Bill Captain PERSON 726165
 James Dacres PERSON 726192
 Claire PERSON 726236
 James Dacres PERSON 726252
-a Dance last SeasonEVENT726276
+a Dance last Season EVENT 726276
 One CARDINAL 726322
 Midshipmen ORG 726333
 Command ORG 726349
@@ -12714,7 +12714,7 @@ Dome FAC 729927
 the Lights of the Aurora are the Torches of Heaven WORK_OF_ART 729942
 Claire PERSON 730060
 Claire PERSON 730071
-BattleEVENT730153
+Battle EVENT 730153
 Guy PERSON 730165
 St. John GPE 730200
 Quebec GPE 730240
@@ -12924,7 +12924,7 @@ the Sons of Liberty ORG 739989
 Loyalists NORP 740078
 Fergus PERSON 740102
 Patrick Henry PERSON 740161
-AbductionEVENT740184
+Abduction EVENT 740184
 a Prelude to Tar and Feathers WORK_OF_ART 740198
 Fergus PERSON 740240
 Monsieur Beauchamp PERSON 740495
@@ -12964,7 +12964,7 @@ Goldsmith PERSON 741694
 Goldsmith PERSON 741779
 Goldsmith PERSON 741812
 a City GPE 741904
-IncidentEVENT741996
+Incident EVENT 741996
 Goldsmith PERSON 742068
 Goldsmith PERSON 742190
 fourth ORDINAL 742276
@@ -16222,7 +16222,7 @@ Jefferson PERSON 941450
 Jefferson PERSON 941508
 Jefferson PERSON 941678
 Abram PERSON 941825
-the Intolerable ActsLAW941903
+the Intolerable Acts LAW 941903
 Ormiston PERSON 941942
 Londoners NORP 942032
 Ormiston PERSON 942181
@@ -17694,7 +17694,7 @@ Gaeltacht NORP 1024458
 American NORP 1024473
 Presbyterians NORP 1024482
 Roger PERSON 1024605
-ConstitutionLAW1024843
+Constitution LAW 1024843
 the American Presbyterian Church ORG 1024859
 Roger PERSON 1024902
 Roger PERSON 1024945
@@ -18246,8 +18246,8 @@ Claire PERSON 1049224
 Boston GPE 1049239
 Bree Bree PERSON 1049250
 a couple of days ago DATE 1049268
-the American RevolutionEVENT1049350
-the American RevolutionEVENT1049391
+the American Revolution EVENT 1049350
+the American Revolution EVENT 1049391
 Mark M. Boatner III PERSON 1049419
 Joseph Plumb Martin PERSON 1049483
 Joseph Plumb Martin PERSON 1049509
@@ -18688,7 +18688,7 @@ Carver PERSON 1072916
 Carver PERSON 1072983
 Carver PERSON 1073044
 one CARDINAL 1073132
-the New TestamentEVENT1073193
+the New Testament EVENT 1073193
 Carver PERSON 1073237
 Harris’s List of Covent Garden Ladies WORK_OF_ART 1073269
 William PERSON 1073332
@@ -20488,17 +20488,17 @@ the Great Whore WORK_OF_ART 1189965
 twenty feet QUANTITY 1190068
 Rachel PERSON 1190326
 Rachel PERSON 1190474
-the Quarterly and Yearly MeetingsEVENT1191593
+the Quarterly and Yearly Meetings EVENT 1191593
 Quakers NORP 1191703
-Philadelphia Yearly MeetingEVENT1191743
+Philadelphia Yearly Meeting EVENT 1191743
 Rachel PERSON 1191809
 Rachel PERSON 1191822
 Rachel PERSON 1191906
-Philadelphia Yearly MeetingEVENT1191948
+Philadelphia Yearly Meeting EVENT 1191948
 William PERSON 1192125
 Quakers NORP 1192164
 William PERSON 1192210
-the Yearly MeetingEVENT1192286
+the Yearly Meeting EVENT 1192286
 Claire PERSON 1192309
 William PERSON 1192365
 William PERSON 1192384
@@ -22907,7 +22907,7 @@ Cameron PERSON 1328041
 Cameron PERSON 1328163
 Claire PERSON 1328224
 Cameron PERSON 1328235
-the Inverness GamesEVENT1328257
+the Inverness Games EVENT 1328257
 Cameron PERSON 1328279
 Cameron PERSON 1328324
 Cameron PERSON 1328374
@@ -24016,7 +24016,7 @@ William PERSON 1388551
 William PERSON 1388582
 William PERSON 1388689
 Fraser PERSON 1388765
-the Battle of Long IslandEVENT1388806
+the Battle of Long Island EVENT 1388806
 Fraser PERSON 1388925
 William PERSON 1389032
 William PERSON 1389151
@@ -25090,7 +25090,7 @@ Sassenach PERSON 1454406
 Jamie PERSON 1454418
 Dinna PERSON 1454457
 Claire PERSON 1454513
-ChristmasEVENT1454541
+Christmas EVENT 1454541
 Claire PERSON 1454658
 Dinna PERSON 1454696
 Dinna PERSON 1455055
@@ -25627,7 +25627,7 @@ Rush PERSON 1489509
 John Grey PERSON 1489783
 John Grey PERSON 1489799
 first ORDINAL 1489864
-the Declaration of IndependenceLAW1489904
+the Declaration of Independence LAW 1489904
 Grey PERSON 1490056
 Rush PERSON 1490078
 Rush PERSON 1490183
@@ -26299,7 +26299,7 @@ Claire PERSON 1525315
 Claire PERSON 1525360
 Claire PERSON 1525382
 Claire PERSON 1525485
-the Great WarEVENT1525528
+the Great War EVENT 1525528
 Claire PERSON 1525656
 Claire Claire PERSON 1525738
 Claire PERSON 1525842
@@ -27105,8 +27105,8 @@ Claire PERSON 1572304
 Claire PERSON 1572706
 Jamie PERSON 1572776
 Claire PERSON 1572822
-NagasakiEVENT1572850
-HiroshimaEVENT1572863
+Nagasaki EVENT 1572850
+Hiroshima EVENT 1572863
 Claire PERSON 1572874
 Jamie PERSON 1572929
 evening TIME 1572944
@@ -27123,7 +27123,7 @@ Claire PERSON 1574544
 Highland GPE 1574568
 Claire PERSON 1574665
 American NORP 1574831
-Civil WarEVENT1574840
+Civil War EVENT 1574840
 Normandy GPE 1574868
 Jamie PERSON 1574950
 Jamie PERSON 1575050
@@ -27476,7 +27476,7 @@ years DATE 1600877
 Wentworth Prison FAC 1600918
 Jamie PERSON 1600941
 the days DATE 1600974
-the Stuart RisingEVENT1600990
+the Stuart Rising EVENT 1600990
 Claire PERSON 1601035
 Jamie PERSON 1601090
 Jamie PERSON 1601320
@@ -28096,7 +28096,7 @@ Claire PERSON 1640557
 first ORDINAL 1640596
 Claire PERSON 1640608
 Bree PERSON 1640659
-the American RevolutionEVENT1640746
+the American Revolution EVENT 1640746
 American NORP 1640797
 Claire PERSON 1640862
 Bree PERSON 1640927
@@ -29338,7 +29338,7 @@ Ian PERSON 1717635
 Ian PERSON 1717693
 Ian Shell PERSON 1717710
 Ian PERSON 1717727
-the First World WarEVENT1717739
+the First World War EVENT 1717739
 the Second DATE 1717779
 Ian PERSON 1717814
 Ian PERSON 1717838
@@ -30902,7 +30902,7 @@ Roger PERSON 1800645
 North Carolina GPE 1800691
 Buccleigh PERSON 1800724
 Scotland GPE 1800863
-CullodenEVENT1800897
+Culloden EVENT 1800897
 Roger PERSON 1800995
 Roger PERSON 1801007
 Claire Roger PERSON 1801017
@@ -34447,7 +34447,7 @@ Michael PERSON 1995929
 Claire PERSON 1996111
 Michael PERSON 1996130
 Claire PERSON 1996191
-TerrorEVENT1996266
+Terror EVENT 1996266
 Michael PERSON 1996308
 France GPE 1996336
 Michael PERSON 1996374
@@ -35688,7 +35688,7 @@ Graham PERSON 2061205
 Roger PERSON 2061236
 Wakefield PERSON 2061274
 Graham PERSON 2061318
-BeltaneEVENT2061416
+Beltane EVENT 2061416
 Graham PERSON 2061483
 Roger PERSON 2061548
 Norse NORP 2061574
@@ -36662,7 +36662,7 @@ Denny PERSON 2111707
 Rachel PERSON 2111803
 nine o’c LOC k on Christmas night TIME 2111931
 Rachel PERSON 2111964
-ChristmasEVENT2112025
+Christmas EVENT 2112025
 Philadelphia GPE 2112145
 Denzell PERSON 2112216
 Denny PERSON 2112351
@@ -37124,7 +37124,7 @@ X.’ Claire ORG 2137446
 Fergus PERSON 2137558
 Fergus PERSON 2137609
 Fergus PERSON 2137677
-the Goudy Bold 10LAW2137696
+the Goudy Bold 10 LAW 2137696
 Jamie PERSON 2137716
 Fergus PERSON 2137726
 two CARDINAL 2137742
@@ -38098,7 +38098,7 @@ Lyle PERSON 2187262
 Claire PERSON 2187275
 Fortunes WORK_OF_ART 2187313
 Claire PERSON 2187387
-the MeetingEVENT2187404
+the Meeting EVENT 2187404
 Society ORG 2187429
 Voltaire PERSON 2187460
 Diderot PERSON 2187470
@@ -38308,7 +38308,7 @@ Roger PERSON 2199430
 Buccleigh PERSON 2199459
 Italian NORP 2199510
 Charles Stuart PERSON 2199538
-the Jacobite RisingEVENT2199657
+the Jacobite Rising EVENT 2199657
 Mandy PERSON 2199719
 Brianna PERSON 2199737
 three CARDINAL 2199808
@@ -38448,7 +38448,7 @@ Brianna PERSON 2205254
 Roger PERSON 2205345
 Roger PERSON 2205373
 Roger PERSON 2205381
-the American RevolutionEVENT2205481
+the American Revolution EVENT 2205481
 Roger PERSON 2205510
 Franklin W. Randall PERSON 2205583
 Franklin W. Randall PERSON 2205630
@@ -38903,7 +38903,7 @@ Ian PERSON 2234676
 Ian Ian PERSON 2234756
 Ian PERSON 2235017
 Claire PERSON 2235273
-CullodenEVENT2235294
+Culloden EVENT 2235294
 Ian PERSON 2235309
 Ian PERSON 2235501
 Ian PERSON 2235515
